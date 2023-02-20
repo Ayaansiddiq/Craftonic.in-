@@ -3,5 +3,8 @@
 
 ![Safa travels poster](https://user-images.githubusercontent.com/124867734/219876450-fa19de0e-22b5-4aa2-8858-7c2bd1867ea0.jpg)
 
+To watch our video
+https://github.com/Ayaansiddiq/SafaTravel/issues/1#issue-1591975934
+
  click the link below
 [Link to Safa Travel home page](https://ayaansiddiq.github.io/SafaTravel/Index.html.html)
